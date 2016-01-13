@@ -1,1 +1,2 @@
-# react-helloworld
+# NavigatorDemo
+Navigator demo for React Native
